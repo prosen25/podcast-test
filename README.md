@@ -1,3 +1,5 @@
+[![Open in Github Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/prosen25/podcast-test)
+
 # The Future in Tech
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
